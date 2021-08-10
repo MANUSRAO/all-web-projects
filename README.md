@@ -6,3 +6,5 @@ This repo is hosted in order to link all my web projects
    Online automatic attendance system using Nodemcu and Rfid
 ## 3. [`Finvesta`](https://github.com/MANUSRAO/finvesta)
    This repository is a mockup of Finshots with use of Finvesta logos and content. Website built using HTML, CSS and Bootsrap
+## 4. [`EdgeLedger Website`](https://github.com/MANUSRAO/edgeledger)
+   This repository is a project built using just HTMl and CSS while learning a course.
